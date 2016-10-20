@@ -128,6 +128,7 @@ public class Main {
                 break;
             default:
                 System.out.println("Zadania są tylko o numerze 1-7");
+                break;
         }
     }
 }
